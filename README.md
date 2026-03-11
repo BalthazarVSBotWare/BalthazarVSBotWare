@@ -10,6 +10,7 @@ i3-keybindings-cheatsheet — A live, searchable, editable cheatsheet for i3 key
 Languages    Python · TypeScript · Bash · HTML/CSS/JS
 Environment  Garuda Linux · i3wm · Polybar
 Learning     Backend development · Full-stack fundamentals
+
 📫 Find Me
 
 💻 Right here on GitHub
