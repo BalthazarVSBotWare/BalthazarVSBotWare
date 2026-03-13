@@ -6,17 +6,17 @@ I run Garuda Linux with i3wm and spend my time customizing my desktop, writing s
 
  [i3-keybindings-cheatsheet](https://github.com/Malys-Botware/i3-keybindings-cheatsheet) — A live, searchable, editable cheatsheet for i3 keybindings. Parses your config, serves a local web UI, integrates with polybar. Almost Zero dependencies.
 
-🧰 Tech & Tools
-Languages    Python · TypeScript · Bash · HTML/CSS/JS
-Environment  Garuda Linux · i3wm · Polybar
-Learning     Backend development · Full-stack fundamentals
+🧰 Tech & Tools:
+ Languages    Python · TypeScript · Bash · HTML/CSS/JS
+| Environment  Garuda Linux · i3wm · Cosmic
+| Learning     Backend development · Full-stack fundamentals
 
 📫 Find Me
 
-💻 Right here on GitHub
-   [On X](https://x.com/Malys520572) 
-   [reddit](https://www.reddit.com/user/Electrical_Funny6177/)
-    ☕ Sponsor my work
+💻 Right here on GitHub | [My Personalized Page Here](https://malys-botware.github.io/)
+   | [On X](https://x.com/Malys520572) 
+  | [reddit](https://www.reddit.com/user/Electrical_Funny6177/)
+   | ☕ Sponsor my work
 
 
-<sub>I build tools that solve my own problems — then share them.</sub>
+<sub>Im probably tinkering, learning, or building something, pretty open to whatever</sub>
