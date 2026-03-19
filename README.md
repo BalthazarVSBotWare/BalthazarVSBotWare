@@ -19,7 +19,6 @@ Also, here's a big thank you to [boot.dev](https://www.boot.dev/) for getting me
 💻 Right here on GitHub 
    | [On X](https://x.com/Malys520572) 
    | [reddit](https://www.reddit.com/user/Electrical_Funny6177/)
-   | ☕ Sponsor my work
 
 
-<sub>Im probably tinkering, learning, or building something, pretty open to whatever</sub>
+<sub>Im probably tinkering, learning, or lost in thought, pretty open to whatever</sub>
