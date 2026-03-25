@@ -1,4 +1,4 @@
-Hey, I'm BalthazarVSBotWare 👋
+Hey, I'm Bal! 👋
 Aspiring Full Stack & Video Game Dev, Linux enthusiast, Jeep fanatic, and a Glazier by trade.
 
 I run Garuda Linux with i3wm and spend my time customizing my desktop, arguing with my computer, and learning software / videogame development. Currently working through Python and TypeScript.
